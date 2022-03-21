@@ -31,6 +31,7 @@ The following features are included:
 [`Years`](apidocs/org.threeten.extra/org/threeten/extra/Years.html) - amounts of time
 * [`Interval`](apidocs/org.threeten.extra/org/threeten/extra/Interval.html) - an interval between two instants
 * [`LocalDateRange`](apidocs/org.threeten.extra/org/threeten/extra/LocalDateRange.html) - a range between two dates
+* [`YearMonthRange`](apidocs/org.threeten.extra/org/threeten/extra/YearMonthRange.html) - a range between two months
 * [`PeriodDuration`](apidocs/org.threeten.extra/org/threeten/extra/PeriodDuration.html) - combines `Period` and `Duration`
 * More [utilities](apidocs/org.threeten.extra/org/threeten/extra/Temporals.html), such as weekend adjusters
 * Extended [formatting](apidocs/org.threeten.extra/org/threeten/extra/AmountFormats.html) of periods and durations, including word-based formatting
